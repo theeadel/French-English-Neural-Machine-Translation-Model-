@@ -82,9 +82,5 @@ elle conduit le camion
 
 ---
 
-## 🤝 Credits
-Developed as part of Zaka AI's machine learning certification challenge.
-
----
 
 > Built with TensorFlow, attention, and a love for languages. 🌍✨
